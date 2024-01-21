@@ -18,12 +18,13 @@ cc0 except for the parts i don't own (default vrchat animations, extensions, etc
 
 ## to fix
 
-- wings clipping into head
-- eyes tilting when looking diagonally (move bone back?)
-- leg bent forward looks weird, needs weights smoothed
+- smaller eye roam range
+- more centered eyes
+- eyebrows for closed eyes
+- eyes closed gesture separate blend shape
+- eyes tilting when looking diagonally (blend shape?)
 - "glowing seam" on mobile
 - flatten eyes to make them not poke into eyebrows
-- feet up
 - fingers less creased (and normals not dipping around beans)
 - thumb is probably wrong
 - smoother head
@@ -32,7 +33,6 @@ cc0 except for the parts i don't own (default vrchat animations, extensions, etc
 
 ## to add
 
-- eyes closed gesture (and happy variation)
 - arm movement for non-vr platforms (pointing, waving, arms crossed, dab)
 - subtle ear/wing physbones (wing would have to go back to quads)
 - export script
