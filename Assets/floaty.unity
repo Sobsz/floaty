@@ -123,6 +123,12 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!137 &219649062 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 1630794972795428178, guid: 50147b1a43c413b44af4764f2b513550,
+    type: 3}
+  m_PrefabInstance: {fileID: 920558186}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &712881426
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -180,6 +186,46 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3551960246506442466, guid: 67aeaf71e25324a46a64744012e036a3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3551960246506442466, guid: 67aeaf71e25324a46a64744012e036a3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3551960246506442466, guid: 67aeaf71e25324a46a64744012e036a3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: -3551960246506442466, guid: 67aeaf71e25324a46a64744012e036a3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1951410641895098583, guid: 67aeaf71e25324a46a64744012e036a3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.998204
+      objectReference: {fileID: 0}
+    - target: {fileID: -1951410641895098583, guid: 67aeaf71e25324a46a64744012e036a3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000015058498
+      objectReference: {fileID: 0}
+    - target: {fileID: -1951410641895098583, guid: 67aeaf71e25324a46a64744012e036a3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00000002798084
+      objectReference: {fileID: 0}
+    - target: {fileID: -1951410641895098583, guid: 67aeaf71e25324a46a64744012e036a3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.059906755
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 67aeaf71e25324a46a64744012e036a3,
         type: 3}
@@ -259,20 +305,70 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3551960246506442466, guid: 50147b1a43c413b44af4764f2b513550,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -3551960246506442466, guid: 50147b1a43c413b44af4764f2b513550,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3551960246506442466, guid: 50147b1a43c413b44af4764f2b513550,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: -3551960246506442466, guid: 50147b1a43c413b44af4764f2b513550,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3099841906592200375, guid: 50147b1a43c413b44af4764f2b513550,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -3099841906592200375, guid: 50147b1a43c413b44af4764f2b513550,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -3099841906592200375, guid: 50147b1a43c413b44af4764f2b513550,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3099841906592200375, guid: 50147b1a43c413b44af4764f2b513550,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1951410641895098583, guid: 50147b1a43c413b44af4764f2b513550,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -1951410641895098583, guid: 50147b1a43c413b44af4764f2b513550,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1951410641895098583, guid: 50147b1a43c413b44af4764f2b513550,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -7.1054274e-15
+      objectReference: {fileID: 0}
+    - target: {fileID: -1951410641895098583, guid: 50147b1a43c413b44af4764f2b513550,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 50147b1a43c413b44af4764f2b513550,
         type: 3}
       propertyPath: m_Name
       value: floaty vrchat mobile
-      objectReference: {fileID: 0}
-    - target: {fileID: 1630794972795428178, guid: 50147b1a43c413b44af4764f2b513550,
-        type: 3}
-      propertyPath: m_BlendShapeWeights.Array.data[0]
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1630794972795428178, guid: 50147b1a43c413b44af4764f2b513550,
-        type: 3}
-      propertyPath: m_BlendShapeWeights.Array.data[6]
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -281,11 +377,11 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 50147b1a43c413b44af4764f2b513550,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 920558191}
+      addedObject: {fileID: 920558189}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 50147b1a43c413b44af4764f2b513550,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 920558190}
+      addedObject: {fileID: 920558188}
   m_SourcePrefab: {fileID: 100100000, guid: 50147b1a43c413b44af4764f2b513550, type: 3}
 --- !u!1 &920558187 stripped
 GameObject:
@@ -293,19 +389,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 920558186}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &920558188 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -3551960246506442466, guid: 50147b1a43c413b44af4764f2b513550,
-    type: 3}
-  m_PrefabInstance: {fileID: 920558186}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &920558189 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -1951410641895098583, guid: 50147b1a43c413b44af4764f2b513550,
-    type: 3}
-  m_PrefabInstance: {fileID: 920558186}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &920558190
+--- !u!114 &920558188
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -323,7 +407,7 @@ MonoBehaviour:
   contentType: 0
   assetBundleUnityVersion: 
   fallbackStatus: 3
---- !u!114 &920558191
+--- !u!114 &920558189
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -336,13 +420,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  ViewPosition: {x: 0, y: 1.2078017, z: -0.124503866}
+  ViewPosition: {x: 0, y: 1.218274, z: -0.124503866}
   Animations: 0
   ScaleIPD: 1
   lipSync: 1
-  lipSyncJawBone: {fileID: 1595539539}
+  lipSyncJawBone: {fileID: 920558191}
   lipSyncJawClosed: {x: -0.70710677, y: 0, z: 0, w: 0.70710677}
-  lipSyncJawOpen: {x: -0.86602545, y: 0, z: 0, w: 0.49999997}
+  lipSyncJawOpen: {x: -0.81915206, y: 0, z: 0, w: 0.57357645}
   VisemeSkinnedMesh: {fileID: 0}
   MouthOpenBlendShapeName: Facial_Blends.Jaw_Down
   VisemeBlendShapes: []
@@ -358,20 +442,20 @@ MonoBehaviour:
     eyeMovement:
       confidence: 0.2
       excitement: 0.6
-    leftEye: {fileID: 920558189}
-    rightEye: {fileID: 920558188}
+    leftEye: {fileID: 920558190}
+    rightEye: {fileID: 940668792}
     eyesLookingStraight:
       linked: 1
       left: {x: 0, y: 0, z: 0, w: 1}
       right: {x: 0, y: 0, z: 0, w: 1}
     eyesLookingUp:
       linked: 1
-      left: {x: 0.13052633, y: 0, z: 0, w: 0.9914448}
-      right: {x: 0.13052633, y: 0, z: 0, w: 0.9914448}
+      left: {x: 0.08715569, y: 0, z: 0, w: 0.9961947}
+      right: {x: 0.08715569, y: 0, z: 0, w: 0.9961947}
     eyesLookingDown:
       linked: 1
-      left: {x: -0.1305262, y: 0, z: 0, w: 0.9914449}
-      right: {x: -0.1305262, y: 0, z: 0, w: 0.9914449}
+      left: {x: -0.08715574, y: 0, z: 0, w: 0.9961947}
+      right: {x: -0.08715574, y: 0, z: 0, w: 0.9961947}
     eyesLookingLeft:
       linked: 1
       left: {x: 0, y: -0.08715574, z: 0, w: 0.9961947}
@@ -421,7 +505,7 @@ MonoBehaviour:
         linked: 1
         left: {x: 0, y: 0, z: 0, w: 0}
         right: {x: 0, y: 0, z: 0, w: 0}
-    eyelidsSkinnedMesh: {fileID: 1595539538}
+    eyelidsSkinnedMesh: {fileID: 219649062}
     eyelidsBlendshapes: 00000000ffffffffffffffff
   customizeAnimationLayers: 1
   baseAnimationLayers:
@@ -449,7 +533,7 @@ MonoBehaviour:
     type: 5
     animatorController: {fileID: 9100000, guid: 085a78439adc1dc42a6d449f8f9c0197,
       type: 2}
-    mask: {fileID: 0}
+    mask: {fileID: 31900000, guid: c911bbe7735df464e80c13b17fbe61cc, type: 2}
     isDefault: 0
   specialAnimationLayers:
   - isEnabled: 0
@@ -621,15 +705,21 @@ MonoBehaviour:
     height: 0.00052823435
     position: {x: 0, y: 0, z: 0}
     rotation: {x: 0, y: 0, z: 0, w: 1}
---- !u!137 &1595539538 stripped
-SkinnedMeshRenderer:
-  m_CorrespondingSourceObject: {fileID: 1630794972795428178, guid: 50147b1a43c413b44af4764f2b513550,
+--- !u!4 &920558190 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -1951410641895098583, guid: 50147b1a43c413b44af4764f2b513550,
     type: 3}
   m_PrefabInstance: {fileID: 920558186}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1595539539 stripped
+--- !u!4 &920558191 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -3099841906592200375, guid: 50147b1a43c413b44af4764f2b513550,
+    type: 3}
+  m_PrefabInstance: {fileID: 920558186}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &940668792 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -3551960246506442466, guid: 50147b1a43c413b44af4764f2b513550,
     type: 3}
   m_PrefabInstance: {fileID: 920558186}
   m_PrefabAsset: {fileID: 0}

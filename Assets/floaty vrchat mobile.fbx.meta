@@ -538,12 +538,12 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: LeftHand
       parentName: LeftForeArm
-      position: {x: -0, y: 0.0017953368, z: 0}
+      position: {x: -0, y: 0.0015815836, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftIndexProximal
       parentName: LeftHand
-      position: {x: 0.000052065712, y: 0.0012713438, z: -0.0004298733}
+      position: {x: 0.000052065712, y: 0.0014850968, z: -0.0004298733}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 0.99999994, z: 1}
     - name: LeftIndexIntermediate
@@ -553,7 +553,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: LeftLittleProximal
       parentName: LeftHand
-      position: {x: 0.000052066072, y: 0.0011931998, z: 0.0007051956}
+      position: {x: 0.000052066072, y: 0.0014069527, z: 0.0007051956}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftLittleIntermediate
@@ -563,7 +563,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: LeftMiddleProximal
       parentName: LeftHand
-      position: {x: 0.000052065836, y: 0.0013071704, z: -0.000045462697}
+      position: {x: 0.000052065836, y: 0.0015209233, z: -0.000045462697}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftMiddleIntermediate
@@ -573,7 +573,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: LeftRingProximal
       parentName: LeftHand
-      position: {x: 0.000052065956, y: 0.0012976759, z: 0.00033768587}
+      position: {x: 0.000052065956, y: 0.001511429, z: 0.00033768587}
       rotation: {x: 0, y: -1.4210855e-14, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftRingIntermediate
@@ -583,8 +583,8 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: LeftThumbProximal
       parentName: LeftHand
-      position: {x: 0.000052065738, y: 0.0002783364, z: -0.00035474732}
-      rotation: {x: -0.45508713, y: -0.03016637, z: -0.056062523, w: 0.8881682}
+      position: {x: 0.000052065738, y: 0.00049208937, z: -0.00035474732}
+      rotation: {x: -0.4528206, y: -0.02940297, z: -0.054203663, w: 0.8894667}
       scale: {x: 1, y: 0.99999994, z: 1}
     - name: LeftThumbIntermediate
       parentName: LeftThumbProximal
@@ -608,7 +608,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: JawFlap
       parentName: Head
-      position: {x: -1.13032216e-10, y: 0.00095274206, z: -0.0004740915}
+      position: {x: 1.074007e-10, y: 0.00095274206, z: 0.0004504712}
       rotation: {x: -0.7071068, y: -2.8806076e-14, z: 0.0000001685874, w: 0.7071067}
       scale: {x: 1, y: 1, z: 1}
     - name: LeftEar
@@ -618,7 +618,7 @@ ModelImporter:
       scale: {x: 0.99999994, y: 1, z: 1}
     - name: LeftEye
       parentName: Head
-      position: {x: 0.00047220668, y: 0.0020764887, z: 0.00006073661}
+      position: {x: 0.00052220665, y: 0.0021264886, z: 0.000060736595}
       rotation: {x: 0, y: -7.1054274e-15, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: RightEar
@@ -628,7 +628,7 @@ ModelImporter:
       scale: {x: 1, y: 0.99999994, z: 1}
     - name: RightEye
       parentName: Head
-      position: {x: -0.00047220668, y: 0.0020764887, z: 0.000060736835}
+      position: {x: -0.00052220665, y: 0.0021264886, z: 0.00006073685}
       rotation: {x: 0, y: 0.00000023841858, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: RightShoulder

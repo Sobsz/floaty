@@ -1,4 +1,4 @@
-# floaty
+- # floaty
 
 ![](thumbnail.png)
 
@@ -14,22 +14,18 @@ cc0 except for the parts i don't own (default vrchat animations, extensions, etc
 
 - idly flapping wings
 - expressions controlled by left hand gestures
+- a deliberate lack of mouth
 - the quest version actually tries to not be Very Poor tier wow
 
 ## to fix
 
-- smaller eye roam range
-- more centered eyes
 - eyebrows for closed eyes
 - eyes closed gesture separate blend shape
-- eyes tilting when looking diagonally (blend shape?)
 - "glowing seam" on mobile
 - flatten eyes to make them not poke into eyebrows
-- fingers less creased (and normals not dipping around beans)
 - thumb is probably wrong
 - smoother head
 - better expressions (mostly surprise needs to be bigger)
-- smoother heart texture
 
 ## to add
 
