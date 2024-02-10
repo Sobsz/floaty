@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: eyes_closed_happy
+  m_Name: eyes_closed_manual
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -33,7 +33,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: blendShape.eyes_closed_happy
+    attribute: blendShape.eyes_closed_manual
     path: Body
     classID: 137
     script: {fileID: 0}
@@ -48,7 +48,7 @@ AnimationClip:
     genericBindings:
     - serializedVersion: 2
       path: 2073732236
-      attribute: 198273663
+      attribute: 845976724
       script: {fileID: 0}
       typeID: 137
       customType: 20
@@ -93,7 +93,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: blendShape.eyes_closed_happy
+    attribute: blendShape.eyes_closed_manual
     path: Body
     classID: 137
     script: {fileID: 0}

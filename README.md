@@ -26,6 +26,12 @@ cc0 except for the parts i don't own (default vrchat animations, extensions, etc
 - thumb is probably wrong
 - smoother head
 - better expressions (mostly surprise needs to be bigger)
+- improve default feet pose
+- better thumb bending
+- brighter emission?
+- flip model
+- fix expressions
+- uncrease inside of eyes
 
 ## to add
 
