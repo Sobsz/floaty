@@ -29,9 +29,6 @@ cc0 except for the parts i don't own (default vrchat animations, extensions, etc
 - improve default feet pose
 - better thumb bending
 - brighter emission?
-- flip model
-- fix expressions
-- uncrease inside of eyes
 
 ## to add
 
@@ -43,4 +40,3 @@ cc0 except for the parts i don't own (default vrchat animations, extensions, etc
 - cross-legged sit
 - flight (gogoloco style, visual-only)
 - vrm version so it's not just vrchat
-- toggleable clothes/accessories
